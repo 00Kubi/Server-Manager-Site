@@ -88,7 +88,3 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 ### Contributing
 
 Wszelkie sugestie i pull requesty są mile widziane. Aby uzyskać więcej informacji na temat wprowadzania zmian, zapoznaj się z plikiem [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-Czy potrzebujesz dodatkowych instrukcji lub zmian w tej strukturze?
