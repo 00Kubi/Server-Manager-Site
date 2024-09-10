@@ -65,7 +65,7 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/yourusername/WebFileManager.git
+   git clone https://github.com/00kubi/ServerManagerSite.git
    ```
 
 2. Zainstaluj zależności:
